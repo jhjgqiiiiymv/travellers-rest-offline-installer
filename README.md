@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | SSE2 instruction set support | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | 1 GB dedicated video card with shader model 4.0+ | Metal-capable GPU |
+| **DirectX** | Version 10 | Version 10 |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 7 (SP1+) | Windows 7 (SP1+) |
 
 ---
 
